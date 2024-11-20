@@ -1,0 +1,23 @@
+
+spring:
+  application:
+    name: spring-batch
+  datasource:
+    url: jdbc:postgresql://localhost:3539/spring_batch
+    username: postgres
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  batch:
+    jdbc:
+      initialize-schema: always
+
+#    job:
+#      enabled: false

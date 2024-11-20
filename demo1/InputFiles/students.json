@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "firstName": "John Doe",
+    "lastName": "Doe",
+    "email": "John@gmail.com"
+  },
+  {
+    "id": 2,
+    "firstName": "John",
+    "lastName": "Taylor",
+    "email": "john@outlook.com"
+  },
+  {
+    "id": 3,
+    "firstName": "Maya",
+    "lastName": "Kumar",
+    "email": "maya@yahoo.com"
+  },
+  {
+    "id": 4,
+    "firstName": "Neha",
+    "lastName": "Patel",
+    "email": "neha@gmail.com"
+  },
+  {
+    "id": 5,
+    "firstName": "Meera",
+    "lastName": "Sharma",
+    "email": "meera@outlook.com"
+  },
+  {
+    "id": 6,
+    "firstName": "Chris",
+    "lastName": "Verma",
+    "email": "chris@example.com"
+  },
+  {
+    "id": 7,
+    "firstName": "Priya",
+    "lastName": "Kumar",
+    "email": "priya@example.com"
+  },
+  {
+    "id": 8,
+    "firstName": "Sonia",
+    "lastName": "Kumar",
+    "email": "sonia@gmail.com"
+  },
+  {
+    "id": 9,
+    "firstName": "John",
+    "lastName": "Taylor",
+    "email": "john@yahoo.com"
+  },
+  {
+    "id": 10,
+    "firstName": "Anil",
+    "lastName": "Brown",
+    "email": "anil@gmail.com"
+  },
+  {
+    "id": 11,
+    "firstName": "Neha",
+    "lastName": "Patel",
+    "email": "neha@example.com"
+  },
+  {
+    "id": 12,
+    "firstName": "Anil",
+    "lastName": "Smith",
+    "email": "anil@outlook.com"
+  },
+  {
+    "id": 13,
+    "firstName": "Amit",
+    "lastName": "Smith",
+    "email": "amit@gmail.com"
+  },
+  {
+    "id": 14,
+    "firstName": "Neha",
+    "lastName": "Smith",
+    "email": "neha@example.com"
+  },
+  {
+    "id": 15,
+    "firstName": "Sonia",
+    "lastName": "Verma",
+    "email": "sonia@yahoo.com"
+  },
+  {
+    "id": 16,
+    "firstName": "Meera",
+    "lastName": "Singh",
+    "email": "meera@outlook.com"
+  },
+  {
+    "id": 17,
+    "firstName": "John",
+    "lastName": "Patel",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 18,
+    "firstName": "John",
+    "lastName": "Brown",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 19,
+    "firstName": "John",
+    "lastName": "Patel",
+    "email": "john@yahoo.com"
+  },
+  {
+    "id": 20,
+    "firstName": "Maya",
+    "lastName": "Johnson",
+    "email": "maya@gmail.com"
+  },
+  {
+    "id": 21,
+    "firstName": "Meera",
+    "lastName": "Patel",
+    "email": "meera@yahoo.com"
+  }
+]
